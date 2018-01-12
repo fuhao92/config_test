@@ -20,7 +20,7 @@ end type
 global w11 w11
 
 event open;//1111aa12994545
-6999
+00000
 
 on w11.create
 end on
