@@ -1,1 +1,3 @@
-*.srw binary
+*.srw -text merge
+*.srw merge=ours
+
