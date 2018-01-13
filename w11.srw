@@ -20,7 +20,11 @@ end type
 global w11 w11
 
 event open;//1111aa12994545
+<<<<<<< HEAD
+444
+=======
 llll
+>>>>>>> master
 
 
 on w11.create
